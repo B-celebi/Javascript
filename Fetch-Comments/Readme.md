@@ -1,0 +1,1 @@
+# This is my first try of fetching data from .json file with Javascript.
